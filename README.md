@@ -25,7 +25,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://employee-review-sys.vercel.app/
+ - Link : https://polling-api-system.vercel.app/
 
 
 
