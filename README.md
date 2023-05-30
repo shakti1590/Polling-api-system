@@ -3,7 +3,7 @@
 A polling system API is an application programming interface that allows developers to create, manage, and retrieve data from a polling system. A polling system is a platform that enables users to create polls, surveys, and quizzes and gather responses from participants.
 
 ### Problem Statement : 
- - Create an application that allows employees to submit feedback toward each other’s performance.
+ - Let’s make a polling system, only API based.
  
 #### Technology Used:
  - Node Js
